@@ -38,7 +38,7 @@ app.get('/api/:major',(req,res,next)=>{
     }
 },(req,res)=>{
     req.myobj += ' End of Data';
-    res,send(req.myobj);
+    res.send(req.myobj);
 });
 
 //route2
