@@ -49,9 +49,9 @@ const data =[
     },
     {
         id:9,
-        name:'ตี๋เย็นตาโฟรสเด็ด - ศาลาว่าการกรุงเทพฯ',
-        imageURL:'ตี๋เย็นตาโฟรสเด็ด - ศาลาว่าการกรุงเทพฯ',
-        type:'Partner,Noodles'
+        name:'Potato Corner - ถนนข้าวสาร',
+        imageURL:'https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CZLJEVDYC3JFL6/hero/a96eca19cb7d461f9fe0823beb209dff_1600984800431217897.jpg',
+        type:'Partner, Small Bites/Snacks'
     },
 ];
 
